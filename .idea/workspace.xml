@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d345b141-2cb8-41ba-9c2b-d66836d5f6a8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/mon_projet_uv.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AccountApp/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/AccountApp/migrations/0001_initial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AccountApp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/AccountApp/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppointmentApp/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/AppointmentApp/migrations/0001_initial.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppointmentApp/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/AppointmentApp/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
